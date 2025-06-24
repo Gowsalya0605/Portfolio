@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+.banner-section {
+    background-size: cover;
+    height: 100vh;
+}
+
+.banner-image {
+    height: 300px;
+    width: 300px;
+    margin-top: 20px;
+    border-radius: 300px;
+}
+
+.banner-heading {
+    color: black;
+    font-family: "roboto";
+    font-weight: 500;
+    font-size: 40px;
+}
+
+.hari {
+    color: #E08D0D;
+    font-weight: 800;
+    font-family: "roboto";
+}
+
+.section-background1 {
+    background-color: #323f4b;
+}
+
+.section-background2 {
+    background-color: #1f2933;
+}
+
+.custom-main-text {
+    color: #575760;
+    font-family: "roboto";
+    font-size: 23px;
+}
+
+.custom-text {
+    color: #9aa5b1;
+    font-family: "roboto";
+    font-size: 22px;
+}
+
+.custom-section-heading {
+    color: #E08D0D;
+    font-family: "roboto";
+    font-size: 28px;
+    font-weight: 800;
+}
+
+.custom-heading {
+    color: #ffffff;
+    font-family: "roboto";
+    font-size: 38px;
+    font-weight: 800;
+}
+
+.contactme-button {
+    color: #ffffff;
+    background-color: #4b6cc1;
+    border-width: 0px;
+    height: 40px;
+    width: 120px;
+    border-radius: 5px;
+}
+
+.profile-image {
+    width: 100%;
+    border-radius: 12px;
+}
+
+.skill-card {
+    background-color: #323f4b;
+    padding: 10px;
+    text-align: center;
+    border-radius: 9px;
+    margin-bottom: 15px;
+}
+
+.skill-image {
+    height: 90px;
+    width: 90px;
+}
+
+.skill-heading {
+    color: #ffffff;
+    font-family: "roboto";
+    font-weight: 800;
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.project-content {
+    padding: 15px;
+    background-color: #1f2933;
+    border-bottom-right-radius: 9px;
+    border-bottom-left-radius: 9px;
+}
+
+.project-type {
+    color: #9aa5b1;
+    font-family: "roboto";
+}
+
+.project-heading {
+    color: #ffffff;
+    font-family: "roboto";
+    font-size: 30px;
+}
+
+.read-more-link {
+    color: #cced00;
+    font-family: "roboto";
+}
+
+.service-card {
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #323f4b;
+}
+
+.service-icon {
+    height: 60px;
+    width: 60px;
+}
+
+.service-heading {
+    color: #ffffff;
+    font-family: "roboto";
+    font-weight: 800;
+    font-size: 30px;
+}
+
+.footer-profile-image {
+    height: 90px;
+    width: 90px;
+    border-radius: 50px;
+}
+
+.footer-bottom-section {
+    background-color: #0d2436;
+}
+
+.follow-us-icon-container {
+    background-color: #202b36;
+    border-radius: 50px;
+    text-align: center;
+    width: 60px;
+    height: 60px;
+    margin-right: 10px;
+}
+
+.media-icon {
+    color: #5a7184;
+    font-size: 25px;
+}
+
+.footer-copyright-description {
+    color: #5a7184;
+    font-family: "roboto";
+    font-weight: 200;
+    font-size: 18px;
+    margin: 15px;
+}
+
+.banner-container {
+    background-color: #C2C2D0;
+    border-width: 0px;
+    padding: 30px;
+    border-radius: 7px;
+}
